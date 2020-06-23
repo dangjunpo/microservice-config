@@ -2,12 +2,12 @@
  profiles:
   active:
   - dev
---
+---
 spring:
  profiles: dev
  application:
   name: microservice-config-atguigu-dev
---
+---
 sping:
  profiles: test
  application:
